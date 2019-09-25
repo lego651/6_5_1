@@ -6,4 +6,5 @@
 
 ## 基础计算机知识
 | # | Topic | Read | Done |
+| - | ----- | ---- | ---- |
 | 1 | S.O.L.I.D | [SOLID Principles every Developer Should Know](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688) | NA |
